@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Paper Town"
-author: SSM
+author: swasti
 categories: [ Poetry ]
 image: assets/images/paper_town.jpg
 ---
