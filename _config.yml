@@ -14,6 +14,14 @@ email: swastishreya13@gmail.com
 
 # Authors
 authors:
+  john:
+    name: Swasti
+    display_name: SSM    
+    avatar: 'assets/images/avatar-swasti.jpg'
+    email: swastishreya13@gmail.com
+    web: https://swastishreya.github.io
+    twitter: https://x.com/SwastiShreya
+    description: "Author of Blogissm, i.e. SSM's right brain (for all practical purposes). For left brain, please refer to her resume."
   sal:
     name: Sal
     display_name: Sal
@@ -21,15 +29,7 @@ authors:
     email: swastishreya13@gmail.com
     web: https://www.wowthemes.net/donate/
     twitter: https://twitter.com/wowthemesnet
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
+    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. They are the reason why it was so easy for SSM to write her blogs."
 
 # Plugins
 plugins:
