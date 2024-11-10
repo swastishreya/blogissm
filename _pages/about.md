@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: Blogissm, viewing the world through the lens of a blog!
 permalink: /about
 comments: false
 image: assets/images/screenshot.jpg

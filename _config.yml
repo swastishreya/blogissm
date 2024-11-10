@@ -2,8 +2,8 @@
 name: "Blogissm"
 title: "Blogissm"
 description: "Viewing the world through the lens of a blog!"
-logo: 'assets/images/blogissm_logo.png'
-favicon: 'assets/images/blogissm_logo.png'
+logo: 'assets/images/blogissm_logo1.png'
+favicon: 'assets/images/blogissm_logo1.png'
 baseurl: /blogissm
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
