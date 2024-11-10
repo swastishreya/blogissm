@@ -1,9 +1,9 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "Not sure how you ended up here, but let me help you put on my lens!"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+name: "Blogissm"
+title: "Blogissm"
+description: "Viewing the world through the lens of a blog!"
+logo: 'assets/images/blogissm_logo.png'
+favicon: 'assets/images/blogissm_logo.png'
 baseurl: /blogissm
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
